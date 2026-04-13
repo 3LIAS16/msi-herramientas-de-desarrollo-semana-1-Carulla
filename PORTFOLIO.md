@@ -3,3 +3,5 @@
 Portfolio de Elias Carulla
 
 ## Sobre Mí 
+
+## Habilidades Técnicas 
